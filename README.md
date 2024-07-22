@@ -18,8 +18,8 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h4>Little facts about me 👧</h4>
-<img align="left" width ="50" display= "inline-block" data-target="animated-image.originalImage" src="https://camo.githubusercontent.com/3c69dbe108e25f2e6cabdddf2deb603052cb55be5a09b20e9188f696770a0f23/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"><span>I like connecting with different people! 😊</span>
-
+<img align="left" width ="40" display= "inline-block" data-target="animated-image.originalImage" src="https://camo.githubusercontent.com/3c69dbe108e25f2e6cabdddf2deb603052cb55be5a09b20e9188f696770a0f23/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"><span>I like connecting with different people! 😊</span>
+<br>
 - 👨‍💻 All of my projects are available at [https://github.com/zohreFaraji](https://github.com/zohreFaraji)
 
 - 💬 Ask me about **React,JavaScript, Bootstrap, Css3, Html5**
