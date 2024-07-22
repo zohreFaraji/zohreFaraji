@@ -15,7 +15,6 @@
 <br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zohrefaraji" alt="zohrefaraji" /></a> </p>
 
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h4>Little facts about me 👧</h4>
@@ -27,10 +26,10 @@
 - 💬 Ask me about **React,JavaScript, Bootstrap, Css3, Html5**
 
 - 📫 How to reach me **zohre.faraji.212@gmail.com**
-- 
+
 <br>
 **My Absolute Favorites:**<br>
-- 💻 I love exploring the new technology stack and building cool stuff.<br>
+- 💻 I like exploring the new technology stack and building cool stuff.<br>
 - 📰 Reading and writing technical blogs.<br>
 - ⚡ Interested in learning new things.<br>
 - 🎮 Playing video games.<br>
