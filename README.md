@@ -27,7 +27,12 @@
 - 💬 Ask me about **React,JavaScript, Bootstrap, Css3, Html5**
 
 - 📫 How to reach me **zohre.faraji.212@gmail.com**
-
+<br>
+I love exploring the new technology stack and building cool stuff.
+📰 Reading and writing technical blogs.
+Interested in learning new things.
+🎮 Playing video games.
+🎵 Listening to music.
 <br>
 <h4 align="left"> Connect with me🤝: </h4>
 <p align="left">
