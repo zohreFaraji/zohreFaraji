@@ -31,7 +31,7 @@
 <hr>
 
 <span align="left"> My Github Stats </span>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="right" width="230">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="right" width="180">
 <br>
 <br>
 
