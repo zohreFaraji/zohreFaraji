@@ -31,7 +31,7 @@
 - 🎮 Playing video games.<br>
 - 🎵 Listening to music.<br>
 <br><br>
-<img align="center" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="center" margin="auto" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
 <h4 align="left"> Connect with me🤝: </h4>
 <p align="left">
 <a href="https://linkedin.com/in/zohre-faraji-41822315a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zohre-faraji-41822315a" height="30" width="40" /></a>
