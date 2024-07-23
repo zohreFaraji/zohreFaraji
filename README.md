@@ -1,7 +1,6 @@
 ![1](https://github.com/user-attachments/assets/597c500f-61ed-4826-ba59-613f4d0f7475)
-<img height="350" width="100%" src="">
-<img align="left" src="![144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f](https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099)" width="21%" style="display:inline;"><img align="right" src="![144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f](https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099)" width="21%" style="display:inline;">
-<h1 align="center">Hello, I'm Zohre Faraji <img src="![Hi](https://github.com/user-attachments/assets/fdb79aa2-9cc4-4b83-a491-d59d8620347f)"/>
+<img align="left" src="https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099" width="21%" style="display:inline;"><img align="right" src="https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099" width="21%" style="display:inline;">
+<h1 align="center">Hello, I'm Zohre Faraji <img src="https://github.com/user-attachments/assets/fdb79aa2-9cc4-4b83-a491-d59d8620347f"/>
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
