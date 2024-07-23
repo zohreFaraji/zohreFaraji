@@ -40,12 +40,7 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SurajPratap10&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width=49% height=100%/>
-<img src="https://github-readme-stats.vercel.app/api?username=SurajPratap10&show_icons=true&count_private=true&theme=react"  width=49% height=100%/>
-  
-<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajPratap10&theme=react&layout=compact" width="400px" alt="Language stats image" -->
-
-<img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SurajPratap10&theme=react&hide_border=true" />
- <br>
+<img src="https://github-readme-stats.vercel.app/api?username=SurajPratap10&show_icons=true&count_private=true&theme=react"  width=49% height=100%/> <br>
 <img src="https://github-profile-trophy.vercel.app/?username=SurajPratap10&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="SurajPratap10" width=200% height=100%/>
 <hr>
 <br>
