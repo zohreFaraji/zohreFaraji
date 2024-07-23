@@ -63,13 +63,12 @@
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
-<h6 align="right" > Created with 🧡 by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></h6>
 
 ### ✍️
 <p align="right">
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;"/><br><hr>
 
 🧡 Success is yours 🧡 <br>
-Credits: [Zohre Faraji](https://github.com/zohreFaraji)
+<h6 align="right" > Created with 🧡 by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></h6>
 
 Last Edited on: 2024-07-24
