@@ -7,7 +7,6 @@
  <img align="right" alt="Coding" width="350" margin-left="30px"; src="https://www.lambdatest.com/resources/images/news24.gif">
 <br>
 <h4 align="left" width="200px" font-weight="200px";>Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</h4>
-<br>
 <p align="center"><b>Profile Views</b></p>
  
 <p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
