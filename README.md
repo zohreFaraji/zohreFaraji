@@ -1,6 +1,6 @@
 ![1](https://github.com/user-attachments/assets/597c500f-61ed-4826-ba59-613f4d0f7475)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<h1 align="center">Hello, I'm Zohre Faraji <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
+<h1 align="center">Hello, I'm Zohre Faraji
 
 
 <br><p align="right">
@@ -9,7 +9,7 @@
  <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="150px">Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</p>
+<p align="center" width="100px">Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</p>
 </p>
 <br>
 <p align="center"><b>Profile Views</b></p>
