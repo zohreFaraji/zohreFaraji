@@ -6,10 +6,10 @@
 <br><p align="right">
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;ECE+Undergrad"/>
 <br>
- <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
+ <img align="right" alt="Coding" width="200" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="left" width="100px">Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</p>
+<p align="left" width="100px" >Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</p>
 </p>
 <br>
 <p align="center"><b>Profile Views</b></p>
