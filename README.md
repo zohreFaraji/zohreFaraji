@@ -9,7 +9,7 @@
  <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="100px">Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</p>
+<p align="left" width="100px">Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</p>
 </p>
 <br>
 <p align="center"><b>Profile Views</b></p>
