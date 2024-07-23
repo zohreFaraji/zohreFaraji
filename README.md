@@ -30,7 +30,7 @@
 - 🎵 Listening to music.<br><br>
 <hr>
 
-<span align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" align="center"> My Github Stats </span>
+<span align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center"> My Github Stats </span>
 <br>
 <br>
 
