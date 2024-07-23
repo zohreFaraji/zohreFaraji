@@ -1,5 +1,5 @@
 ![Metaverse-Fashion-10](https://github.com/user-attachments/assets/bd039298-a475-4995-b3e8-ccd324d767e0)
-<div align="left" width="21%" style="display:inline;">![144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f](https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099)
+<div align="left" width="21%" style="display:inline;"> ![144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f](https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099)
 
 <img align="right" src="![144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f](https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099)" width="21%" style="display:inline;">
 <h1 align="center">Hello, I'm Zohre Faraji <img src="![Hi](https://github.com/user-attachments/assets/fdb79aa2-9cc4-4b83-a491-d59d8620347f)"/>
