@@ -29,7 +29,7 @@
 - 🎮 Playing video games.<br>
 - 🎵 Listening to music.<br><br>
 <hr>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="right">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
 <span align="left"> My Github Stats </span>
 <br>
 <br>
