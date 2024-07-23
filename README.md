@@ -31,11 +31,11 @@
 <hr>
 
 <span align="left"> My Github Stats </span>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="right" width="300">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="right" width="230">
 <br>
 <br>
 
-<div align="left">
+<div align="center">
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZohreFaraji?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
