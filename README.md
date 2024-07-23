@@ -6,7 +6,7 @@
 <br><br>
  <img align="right" alt="Coding" width="350" margin-left="30px"; src="https://www.lambdatest.com/resources/images/news24.gif">
 <br>
-<h3 align="left" width="200px" font-weight="200";>Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</h3>
+<h4 align="left" width="200px" font-weight="200px";>Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</h4>
 <br>
 <p align="center"><b>Profile Views</b></p>
  
