@@ -21,7 +21,7 @@
 - 👨‍💻 All of my projects are available at:<br>
 - 💬 Ask me about **Html, Css, Bootstrap, Tailwind, JavaScript, React** <br>
 - 📫 How to reach me **zohre.faraji.212@gmail.com** <br>
-<br>
+<br><br>
 <h4> My Absolute Favorites <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"></h4>
 - 💻 I like exploring the new technology stack and building cool stuff.<br>
 - 📰 Reading and writing technical blogs.<br>
