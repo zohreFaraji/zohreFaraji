@@ -1,6 +1,6 @@
 <img width="100%" height="400px" src="https://github.com/user-attachments/assets/597c500f-61ed-4826-ba59-613f4d0f7475">
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<h1 align="center" font="40px">Hello, I'm Zohre Faraji </h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<h1 align="center" font="40px">Hello, I'm Zohre Faraji <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="right">
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Interested+in+Technology;Master's+Degree;in+Information+Technology;Nice+to+Meet+You!;"/>
 </p><br>
