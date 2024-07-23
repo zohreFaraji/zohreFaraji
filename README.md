@@ -1,11 +1,10 @@
 ![1](https://github.com/user-attachments/assets/597c500f-61ed-4826-ba59-613f4d0f7475)
 
 ![2](https://github.com/user-attachments/assets/7eeeaa56-f417-41e8-99a4-902786d5e57d)
-7e0)
 
  ![2](https://github.com/user-attachments/assets/7eeeaa56-f417-41e8-99a4-902786d5e57d)
-7e0)
 <h1 align="center">Hello, I'm Zohre Faraji </h1>
+
  ![Hi](https://github.com/user-attachments/assets/fdb79aa2-9cc4-4b83-a491-d59d8620347f)
  
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
