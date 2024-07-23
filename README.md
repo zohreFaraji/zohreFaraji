@@ -53,15 +53,12 @@
 <h1 align="center"> Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://linkedin.com/in/zohre-faraji-41822315a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:zohre.faraji.212@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/zohreFaraji" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://linkedin.com/in/zohre-faraji-41822315a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/zohre-faraji-41822315a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:zohre.faraji.212@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/zohreFaraji" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://t.me/zohreFaraji212" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/t/39/telegram.svg" /></a>
+
 </p>
 <Br>
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
-</p>
-<br>
-<p align="center">
-  <h3> IRAN </h3>
 </p>
 <br>
 <p align="right" > Created with 🧡 by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></p>
