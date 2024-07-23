@@ -22,16 +22,15 @@
 - 💬 Ask me about **Html, Css, Bootstrap, Tailwind, JavaScript, React** <br>
 - 📫 How to reach me **zohre.faraji.212@gmail.com** <br>
 <br>
-**My Absolute Favorites:**<br>
+<h4>My Absolute Favorites</h4>
 - 💻 I like exploring the new technology stack and building cool stuff.<br>
 - 📰 Reading and writing technical blogs.<br>
 - ⚡ Interested in learning new things.<br>
 - 🎮 Playing video games.<br>
 - 🎵 Listening to music.<br><br>
-
 <hr>
 
-**My Github Stats:**
+<h4>My Github Stats</h4>
 <br>
 <br>
 
