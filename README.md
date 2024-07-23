@@ -68,6 +68,6 @@
 <p align="right">
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;"/><br><hr>
 
-🧡 Success is yours 🧡 <h6 align="left" > Created with 🧡 by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></h6>
+🧡 Success is yours 🧡 <span align="left" > Created with 🧡 by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></span>
 
 Last Edited on: 2024-07-24
