@@ -31,11 +31,17 @@
 - 🎮 Playing video games.<br>
 - 🎵 Listening to music.<br><br>
 
+<hr>
 
-<hr><br>
-**My Github Stats:** <br>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZohreFaraji?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+**My Github Stats:**
 <br>
+<br>
+
+<div align="center">
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZohreFaraji?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+</div>
 
 <h3>Productivity Stats:</h3>
 <hr>
