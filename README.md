@@ -49,15 +49,9 @@
 <a href="https://t.me/zohreFaraji212" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;
  <a href="https://instagram.com/zohrefaraji212" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-92003B?style=for-the-badge&logo=Instagram&logoColor=#0D1117" /></a>
-
-
-
-
-
 </p>
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
-<br>
-<p align="right" > Created with 🧡 by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></p>
+<h4 align="right" > Created with 🧡 by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=3B2F67&text=Success%20is%20yours&section=footer&fontSize=40&fontAlignY=78&strokeWidth=1&fontColor=ffffff&textBg=false&animation=twinkling&fontAlign=48">
