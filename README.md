@@ -32,10 +32,8 @@
 - 🎵 Listening to music.<br><br>
 
 
-<hr>
-<br>
-<br>
-**My Github Stats:**
+<hr><br>
+**My Github Stats:** <br>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZohreFaraji?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 <br>
 
