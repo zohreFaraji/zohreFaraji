@@ -67,7 +67,7 @@
 
 ### ✍️
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE ![image](https://github.com/user-attachments/assets/80a6481f-3b24-403a-a784-35c52ef4e37f)
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE (https://github.com/user-attachments/assets/80a6481f-3b24-403a-a784-35c52ef4e37f)
 "/>
 
 -----
