@@ -1,4 +1,4 @@
-<img width="600" src="https://media.licdn.com/dms/image/C4E22AQEyq9aw5UvxZw/feedshare-shrink_2048_1536/0/1664790514497?e=1724284800&amp;v=beta&amp;t=DYUQlShwJOgS0XHMTPKr0WBt8WZZwqDz474v2gGEYEI">
+
 
 <img src="https://capsule-render.vercel.app/api?type=egg&height=150&color=3B2F67&text=Zohre%20Faraji&section=header&reversal=false&textBg=false&fontSize=55&strokeWidth=1&fontColor=ffffff&fontAlignY=44&animation=scaleIn">
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
