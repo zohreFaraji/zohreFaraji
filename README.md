@@ -1,6 +1,6 @@
 ![1](https://github.com/user-attachments/assets/597c500f-61ed-4826-ba59-613f4d0f7475)
 <img align="left" src="https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099" width="21%" style="display:inline;"><img align="right" src="https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099" width="21%" style="display:inline;">
-<h1 align="center">Hello, I'm Zohre Faraji <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/></h1>
+<h1 align="center">Hello, I'm Zohre Faraji <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
