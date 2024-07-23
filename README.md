@@ -19,8 +19,6 @@
 <img align="left" width ="50" height="35" display= "inline-block" data-target="animated-image.originalImage" src="https://camo.githubusercontent.com/3c69dbe108e25f2e6cabdddf2deb603052cb55be5a09b20e9188f696770a0f23/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"><span>I like connecting with different people! 😊</span>
 <br> <br>
 - 👨‍💻 All of my projects are available at:<br>
-[https://github.com/zohreFaraji] 
-(https://github.com/zohreFaraji) <br>
 - 💬 Ask me about **Html, Css, Bootstrap, Tailwind, JavaScript, React** <br>
 - 📫 How to reach me **zohre.faraji.212@gmail.com** <br>
 <br>
