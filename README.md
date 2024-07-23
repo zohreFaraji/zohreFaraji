@@ -1,38 +1,29 @@
-![1](https://github.com/user-attachments/assets/597c500f-61ed-4826-ba59-613f4d0f7475)
-<img align="left" src="https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099" width="21%" style="display:inline;"><img align="right" src="https://github.com/user-attachments/assets/851e010a-9342-4775-9f0e-c966d3a7f099" width="21%" style="display:inline;">
-<h1 align="center">Hello, I'm Zohre Faraji <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
-<img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img width="600" src="https://media.licdn.com/dms/image/C4E22AQEyq9aw5UvxZw/feedshare-shrink_2048_1536/0/1664790514497?e=1724284800&amp;v=beta&amp;t=DYUQlShwJOgS0XHMTPKr0WBt8WZZwqDz474v2gGEYEI">
 
+<img src="https://capsule-render.vercel.app/api?type=egg&height=150&color=3B2F67&text=Zohre%20Faraji&section=header&reversal=false&textBg=false&fontSize=55&strokeWidth=1&fontColor=ffffff&fontAlignY=44&animation=scaleIn">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Zohre Faraji</h1>
 <br>
-<p align="center" width="150px">Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</p>
-</p>
-<br>
-<p align="center"><b>Profile Views</b></p>
- 
-<p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
-<br><br>
+<p align="center">
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=A+Front-end+developer;Nice+to+meet+you!;Here,+you+can+see;my+progress+in;my+work+and+projects.;Hope+you+enjoy.&center=true&size=30&font=bold&color=58a6ff&background=FFFFFF00">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zohrefaraji" alt="zohrefaraji" /></a> </p>
-
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<h4>Little facts about me 👧</h4>
-<img align="left" width ="50" height="35" display= "inline-block" data-target="animated-image.originalImage" src="https://camo.githubusercontent.com/3c69dbe108e25f2e6cabdddf2deb603052cb55be5a09b20e9188f696770a0f23/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"><span>I like connecting with different people! 😊</span>
-<br> <br>
-- 👨‍💻 All of my projects are available at:<br>
-[https://github.com/zohreFaraji] 
-(https://github.com/zohreFaraji) <br>
-- 💬 Ask me about **Html, Css, Bootstrap, Tailwind, JavaScript, React** <br>
-- 📫 How to reach me **zohre.faraji.212@gmail.com** <br>
 <br>
-**My Absolute Favorites:**<br>
-- 💻 I like exploring the new technology stack and building cool stuff.<br>
-- 📰 Reading and writing technical blogs.<br>
-- ⚡ Interested in learning new things.<br>
-- 🎮 Playing video games.<br>
-- 🎵 Listening to music.<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zohrefaraji&label=Profile%20views&color=0e75b6&style=flat" alt="zohrefaraji" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-<img align="center" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
-<h4 align="left"> Connect with me🤝: </h4>
+
+- <img align="left" width ="50" display= "inline-block" data-target="animated-image.originalImage" src="https://camo.githubusercontent.com/3c69dbe108e25f2e6cabdddf2deb603052cb55be5a09b20e9188f696770a0f23/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"><span>I like connecting with different people! 😊</span>
+
+- 👨‍💻 All of my projects are available at [https://github.com/zohreFaraji](https://github.com/zohreFaraji)
+
+- 💬 Ask me about **React,JavaScript, Bootstrap, Css3, Html5**
+
+- 📫 How to reach me **zohre.faraji.212@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zohre-faraji-41822315a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zohre-faraji-41822315a" height="30" width="40" /></a>
 <a href="https://instagram.com/zohrefaraji212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zohrefaraji212" height="30" width="40" /></a>
@@ -45,6 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zohrefaraji&show_icons=true&locale=en&layout=compact" alt="zohrefaraji"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohrefaraji&show_icons=true&locale=en" alt="zohrefaraji" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zohrefaraji&" alt="zohrefaraji" /></p>
+
 <br>
 <p align="right" > Created with 🧡 by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=3B2F67&text=Success%20is%20yours&section=footer&fontSize=40&fontAlignY=78&strokeWidth=1&fontColor=ffffff&textBg=false&animation=twinkling&fontAlign=48">
