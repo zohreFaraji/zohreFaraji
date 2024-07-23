@@ -69,6 +69,4 @@
 
 🧡 Success is yours 🧡
 <h4 align="left" > 
-✍️ Created with by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></h4>
-
-Last Edited on: 2024-07-24
+Created with by <a href="https://github.com/zohreFaraji">Zohre Faraji</a></h4> ✍️ Last Edited on: 2024-07-24
