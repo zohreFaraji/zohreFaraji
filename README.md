@@ -2,12 +2,12 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">Hello, I'm Zohre Faraji
 <br><p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Interested+in+Technology;Master's+Degree+in+Information+Technology"/>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=33&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Interested+in+Technology;Master's+Degree+in+Information+Technology"/>
 <br>
  <img align="right" alt="Coding" width="350" margin-left="20px"; src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<h4 align="left" width="150px" font-weight="lighter";  >Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</h4>
+<h4 align="left" width="150px" weight="lighter";  >Currently, I am taking front-end courses to upgrade myself and have completed my master's degree in IT engineering. I'm here to contribute to open source projects and learn new things.</h4>
 </p>
 <br>
 <p align="center"><b>Profile Views</b></p>
