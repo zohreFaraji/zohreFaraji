@@ -30,7 +30,6 @@
 - 🎵 Listening to music.<br><br>
 <hr>
 
-<span align="left"> My Github Stats </span>
 <br>
 <br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="right" width="400">
@@ -39,6 +38,7 @@
 
 <br><br><br><br><hr>
 
+<span align="left"> My Github Stats </span>
 <div align="center">
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZohreFaraji?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
